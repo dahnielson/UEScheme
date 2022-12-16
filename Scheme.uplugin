@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Scheme",
+	"Description": "Execute strings of scheme code from Blueprints.",
+	"Category": "Blueprints",
+	"CreatedBy": "Anders Dahnielson",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Scheme",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
